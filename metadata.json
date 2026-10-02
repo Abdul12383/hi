@@ -1,0 +1,6 @@
+{
+  "name": "A.M Accessories - Premium Mobile Accessories",
+  "description": "Quality Accessories, Better Connections. Premium mobile accessories, chargers, earbuds, power banks & smart watches with nationwide delivery in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
